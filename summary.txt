@@ -1,0 +1,5 @@
+Summary Report
+------------------
+Mean: {'age_mean': np.float64(28.875), 'salary_mean': np.float64(63500.0)}
+Median: {'age_median': np.float64(31.0), 'salary_median': np.float64(62000.0)}
+Mode: {'age_mode': np.float64(31.0), 'salary_mode': np.int64(62000)}
